@@ -1,0 +1,24 @@
+raja     :0           :0               Sun Feb 27 15:36   still logged in
+raja     :0           :0               Sun Feb 27 15:28 - 15:36  (00:07)
+raja     :0           :0               Sun Feb 27 13:29 - 15:28  (01:58)
+reboot   system boot  5.13.0-30-generi Sun Feb 27 13:28   still running
+raja     :0           :0               Sat Feb 26 13:10 - down   (07:33)
+reboot   system boot  5.13.0-30-generi Sat Feb 26 13:07 - 20:44  (07:36)
+raja     :0           :0               Sat Feb 26 12:53 - crash  (00:13)
+reboot   system boot  5.13.0-30-generi Sat Feb 26 12:50 - 20:44  (07:53)
+raja     :0           :0               Sat Feb 26 12:34 - down   (00:16)
+reboot   system boot  5.13.0-30-generi Sat Feb 26 12:31 - 12:50  (00:18)
+raja     :0           :0               Sat Feb 26 10:58 - down   (01:33)
+reboot   system boot  5.13.0-30-generi Tue Jan  1 05:30 - 12:31 (3343+07:00)
+raja     :0           :0               Thu Feb 24 21:47 - down   (00:08)
+reboot   system boot  5.13.0-30-generi Thu Feb 24 21:45 - 21:55  (00:10)
+raja     :0           :0               Wed Feb 23 18:20 - crash (1+03:25)
+reboot   system boot  5.13.0-30-generi Tue Jan  1 05:30 - 21:55 (3341+16:25)
+raja     :0           :0                 Wed Feb 23 17:36 - down   (00:42)
+reboot   system boot  5.11.0-27-generi Wed Feb 23 17:35 - 18:19  (00:43)
+raja     :0           :0               Wed Feb 23 17:26 - down   (00:08)
+reboot   system boot  5.11.0-27-generi Tue Jan  1 05:30 - 17:35 (3340+12:04)
+raja     :0           :0               Thu Jul 22 06:16 - down  (216+11:09)
+reboot   system boot  5.11.0-27-generi Thu Jul 22 06:15 - 17:25 (216+11:10)
+
+wtmp begins Thu Jul 22 06:15:15 2021        

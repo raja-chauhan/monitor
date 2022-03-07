@@ -1,0 +1,1 @@
+resources --> https://medium.com/@prathamanchan22/send-text-message-sms-in-python-using-fast2sms-a1399e863552
